@@ -32,12 +32,25 @@
 ### 4. Image-based Lighting
 
   The goal of this project is to create HDR images from sequences of low dynamic range (LDR) images and also to composite 3D models seamlessly into photographs using image-based lighting techniques. HDR tonemapping can also be investigated. See the output below from the notebook [Image-based Lighting](https://github.com/xiaorandu/computational_photography_series/blob/main/4_image_based_lighting.ipynb).
-
+  + Recovering HDR maps
+    
   <img src="output/lighting.png" alt="Alt text" width="90%"/>
+
+  + Panoramic transformations
+
+  <img src="output/pano.png" alt="Alt text" width="80%"/>
+
+  + Rendering synthetic objects
+
+  <img src="output/syn_1.png" alt="Alt text" width="60%"/>
+
+  <img src="output/syn_2.png" alt="Alt text" width="60%"/>
 
 ### 5. Video Stitching and Processing
 
   This project is manipulate videos by applying several transformations frame by frame. The techniques using interest points, robust matching with RANSAC, homography, and background subtraction are explored. See the output below from the notebook [Video Stitching and Processing](https://github.com/xiaorandu/computational_photography_series/blob/main/5_video_stitching_and_processing.ipynb).
 
   <img src="output/image_stitch.png" alt="Alt text" width="90%"/>
+
+  <img src="output/stitchedVideo.gif" alt="Alt text" width="90%"/>
   

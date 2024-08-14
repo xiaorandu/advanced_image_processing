@@ -1,4 +1,4 @@
-## Computational Photography Series
+## Advanced Image Processing
 + [1. Hybrid Image](#1-Hybrid-Image)
 + [2. Image Quilting](#2-Image-Quilting)
 + [3. Gradient-Domain Fusion](#3-Gradient-Domain-Fusion)
